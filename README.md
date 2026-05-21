@@ -31,6 +31,10 @@ python app.py
 # or
 python main.py
 ```
+## 📸 Dashboard Preview
+![Weather Prediction](weather_output.png) 
+
+---
 
 ## 👨‍💻 Author
 **Gaddamidi Sai Kiran**
