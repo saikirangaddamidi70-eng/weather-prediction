@@ -31,7 +31,7 @@ python app.py
 # or
 python main.py
 ```
-## 📸 Dashboard Preview
+## 📸 Project Output Screenshot
 ![Weather Prediction](weather_output.png) 
 
 ---
