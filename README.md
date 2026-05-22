@@ -37,7 +37,7 @@ python main.py
 ---
 
 ## 👨‍💻 Author
-**Gaddamidi Sai Kiran**
+**G.Sai Kiran**
 
 ## 📄 License
 Licensed under the MIT License.
